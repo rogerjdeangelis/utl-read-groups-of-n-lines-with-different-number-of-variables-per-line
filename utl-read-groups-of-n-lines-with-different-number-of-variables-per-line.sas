@@ -12,8 +12,23 @@ sas communities
 https://tinyurl.com/mu9vz2rr
 https://communities.sas.com/t5/SAS-Programming/How-to-read-over-multiple-lines-record/m-p/807409#M318333
 
+Solution by
 ballardw
 https://communities.sas.com/t5/user/viewprofilepage/user-id/13884
+
+RELATED REPO
+
+https://github.com/rogerjdeangelis/utl-adding-infile-options-like-lrecl-and-recfm-to-cards-or-datalines-input
+https://github.com/rogerjdeangelis/utl-expanding-sas-string-functionality-by-loading-strings-into-the-infile-buffer
+https://github.com/rogerjdeangelis/utl-find-duplicate-values-in-different-columns-infile-processing
+https://github.com/rogerjdeangelis/utl-flag-non-missing-and-missing-words-with-one-or-zero-respectively-using-loadinfile-macro
+https://github.com/rogerjdeangelis/utl-fun-with-infile-processing-without-an-input-file-or-datalines
+https://github.com/rogerjdeangelis/utl-load-infile-with-a-string-and-parse-the-string-mutiple-arbitrary-length-delimeters
+https://github.com/rogerjdeangelis/utl-parsing-a-complex-string-using-input-infile-and-call-scan
+https://github.com/rogerjdeangelis/utl-pivot-text-file-wide-to-long-using-sas-infile-and-r
+https://github.com/rogerjdeangelis/utl-using-infile-and-input-to-split-strings
+https://github.com/rogerjdeangelis/utl-using-sas-infile-input-to-parse-compex-datastep-strings-empty-files
+https://github.com/rogerjdeangelis/utl-when-a-sentence-is-spread-over-many-lines-combine-lines-into-one-record-sas-infile-python
 
 
 /**************************************************************************************************************************/
@@ -46,3 +61,4 @@ https://communities.sas.com/t5/user/viewprofilepage/user-id/13884
  \___|_| |_|\__,_|
 
 */
+
